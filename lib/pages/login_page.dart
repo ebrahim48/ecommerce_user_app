@@ -179,7 +179,7 @@ class _LoginPageState extends State<LoginPage> {
                       TextSpan(
                         text: 'You have no account? ',
                         style: TextStyle(
-                          color: Colors.black,
+                          color: Colors.black54,
                         ),
                       ),
                       TextSpan(
